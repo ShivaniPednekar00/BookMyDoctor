@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  transition: box-shadow 0.3s;
+}
+.card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.available {
+  color: green;
+}
+.unavailable {
+  color: red;
+}

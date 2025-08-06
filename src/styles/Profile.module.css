@@ -1,0 +1,19 @@
+.profile {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: center;
+}
+.image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+.available {
+  color: green;
+}
+.unavailable {
+  color: red;
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Riya Sharma",
+    "specialization": "Cardiologist",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "available": true,
+    "bio": "Experienced cardiologist with 10+ years in the field."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Karan Patel",
+    "specialization": "Dermatologist",
+    "image": "https://randomuser.me/api/portraits/men/64.jpg",
+    "available": false,
+    "bio": "Skin specialist focused on acne and allergies."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Anjali Mehta",
+    "specialization": "Pediatrician",
+    "image": "https://randomuser.me/api/portraits/women/33.jpg",
+    "available": true,
+    "bio": "Friendly pediatrician known for her patient approach to children."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rahul Verma",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "available": true,
+    "bio": "Specializing in joint replacement and sports injuries."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Neha Singh",
+    "specialization": "Gynecologist",
+    "image": "https://randomuser.me/api/portraits/women/72.jpg",
+    "available": false,
+    "bio": "Focuses on women's health and prenatal care."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Arjun Desai",
+    "specialization": "Neurologist",
+    "image": "https://randomuser.me/api/portraits/men/21.jpg",
+    "available": true,
+    "bio": "Expert in treating brain and spinal disorders."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Shalini Rao",
+    "specialization": "Psychiatrist",
+    "image": "https://randomuser.me/api/portraits/women/18.jpg",
+    "available": true,
+    "bio": "Committed to mental health care and therapy."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Vivek Khanna",
+    "specialization": "ENT Specialist",
+    "image": "https://randomuser.me/api/portraits/men/55.jpg",
+    "available": false,
+    "bio": "Cares for ear, nose, and throat conditions."
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya Iyer",
+    "specialization": "Oncologist",
+    "image": "https://randomuser.me/api/portraits/women/49.jpg",
+    "available": true,
+    "bio": "Focused on breast and ovarian cancer treatment."
+  },
+  {
+    "id": 10,
+    "name": "Dr. Manish Kapoor",
+    "specialization": "General Physician",
+    "image": "https://randomuser.me/api/portraits/men/47.jpg",
+    "available": true,
+    "bio": "Provides general medical consultations."
+  },
+  {
+    "id": 11,
+    "name": "Dr. Tanya Bose",
+    "specialization": "Dermatologist",
+    "image": "https://randomuser.me/api/portraits/women/39.jpg",
+    "available": true,
+    "bio": "Expert in skincare and cosmetic procedures."
+  },
+  {
+    "id": 12,
+    "name": "Dr. Arvind Menon",
+    "specialization": "Cardiologist",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "available": false,
+    "bio": "Heart specialist with research in heart disease."
+  },
+  {
+    "id": 13,
+    "name": "Dr. Sneha Jha",
+    "specialization": "Radiologist",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "available": true,
+    "bio": "Specialist in medical imaging and diagnostics."
+  },
+  {
+    "id": 14,
+    "name": "Dr. Harsh Vardhan",
+    "specialization": "Orthopedic",
+    "image": "https://randomuser.me/api/portraits/men/63.jpg",
+    "available": true,
+    "bio": "Surgeon treating fractures and spine injuries."
+  },
+  {
+    "id": 15,
+    "name": "Dr. Isha Khurana",
+    "specialization": "Endocrinologist",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg",
+    "available": false,
+    "bio": "Deals with hormone-related diseases."
+  },
+  {
+    "id": 16,
+    "name": "Dr. Nikhil Shah",
+    "specialization": "Nephrologist",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg",
+    "available": true,
+    "bio": "Kidney specialist treating chronic diseases."
+  },
+  {
+    "id": 17,
+    "name": "Dr. Pooja Bhatt",
+    "specialization": "Gynecologist",
+    "image": "https://randomuser.me/api/portraits/women/16.jpg",
+    "available": true,
+    "bio": "Caring doctor for women's reproductive health."
+  },
+  {
+    "id": 18,
+    "name": "Dr. Ramesh Iyer",
+    "specialization": "Pulmonologist",
+    "image": "https://randomuser.me/api/portraits/men/51.jpg",
+    "available": false,
+    "bio": "Expert in lung and respiratory conditions."
+  },
+  {
+    "id": 19,
+    "name": "Dr. Anu Lohia",
+    "specialization": "Dentist",
+    "image": "https://randomuser.me/api/portraits/women/61.jpg",
+    "available": true,
+    "bio": "Dental surgeon providing pain-free treatments."
+  },
+  {
+    "id": 20,
+    "name": "Dr. Rohit Bajaj",
+    "specialization": "ENT Specialist",
+    "image": "https://randomuser.me/api/portraits/men/27.jpg",
+    "available": true,
+    "bio": "Treats allergies and sinus disorders."
+  },
+  {
+    "id": 21,
+    "name": "Dr. Varsha Das",
+    "specialization": "Pediatrician",
+    "image": "https://randomuser.me/api/portraits/women/66.jpg",
+    "available": true,
+    "bio": "Pediatric care from birth to adolescence."
+  },
+  {
+    "id": 22,
+    "name": "Dr. Mahesh Sinha",
+    "specialization": "Oncologist",
+    "image": "https://randomuser.me/api/portraits/men/38.jpg",
+    "available": false,
+    "bio": "Expertise in chemotherapy and cancer treatment."
+  },
+  {
+    "id": 23,
+    "name": "Dr. Devika Rao",
+    "specialization": "Neurologist",
+    "image": "https://randomuser.me/api/portraits/women/71.jpg",
+    "available": true,
+    "bio": "Treats migraines, seizures, and neural pain."
+  },
+  {
+    "id": 24,
+    "name": "Dr. Ashwin Dutt",
+    "specialization": "General Physician",
+    "image": "https://randomuser.me/api/portraits/men/34.jpg",
+    "available": true,
+    "bio": "Handles day-to-day illnesses and health checks."
+  },
+  {
+    "id": 25,
+    "name": "Dr. Kavita Pillai",
+    "specialization": "Endocrinologist",
+    "image": "https://randomuser.me/api/portraits/women/45.jpg",
+    "available": false,
+    "bio": "Specialist in diabetes and thyroid disorders."
+  }
+]

@@ -1,12 +1,30 @@
-# React + Vite
+# BookMyDoctor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple healthcare appointment booking app built with React.js.
 
-Currently, two official plugins are available:
+## 🔧 Tools & Libraries Used
+- React.js (Vite)
+- React Router DOM
+- CSS Modules
+- Git & GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Search doctors by name or specialization
+- View doctor availability
+- Book appointment with available doctors
+- Stylish and responsive UI
 
-## Expanding the ESLint configuration
+## 🚀 Improvements with More Time
+- Add backend for storing appointments
+- Login & Signup for patients
+- Filter by availability or location
+- Integrate real-time doctor availability API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Challenges Faced & Solutions
+- **Dynamic routing** to doctor profile — Solved using `react-router-dom`.
+- **Conditional rendering** of appointment form — Resolved by passing doctor data via route.
+- **Design consistency** — Used CSS Modules for scoped and clean styling.
+
+
+## 📂 Folder Structure
+
